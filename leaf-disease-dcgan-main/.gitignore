@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Dataset
+data/raw/
+data/processed/
+
+# Model files
+checkpoints/
+
+# Generated outputs
+samples/
+generated/
+figures/
+
+# Logs
+training_log.csv
+
+# OS files
+.DS_Store
+Thumbs.db
